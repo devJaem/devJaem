@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello)
 
 # ⭐ 정재민 &nbsp; Jaemin Cheong 
-# ⭐ Contect & SNS &nbsp; <img src="https://img.shields.io/badge/jaemining92-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/wjdwoals9292-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/wjdwoals9292-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
-# ⭐ Stack 
+## ⭐ Contect & SNS &nbsp; <img src="https://img.shields.io/badge/jaemining92-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/wjdwoals9292-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/wjdwoals9292-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
+## ⭐ Stack 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaem&show_icons=true&theme=nightowl)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevjaem&count_bg=%2379C83D&title_bg=%23B51C1C&icon=&icon_color=%23E7E7E7&title=Number+of+Github&edge_flat=false)](https://hits.seeyoufarm.com)<br>
