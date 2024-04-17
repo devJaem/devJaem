@@ -2,13 +2,11 @@
 
 # ⭐ 정재민 &nbsp; Jaemin Cheong 
 # ⭐ Contect & SNS &nbsp; 
-[![Instagram](https://img.shields.io/badge/WJDWOALS9292-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaemining92)<br>
+[![Instagram](https://img.shields.io/badge/WJDWOALS9292-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaemining92)
 [![Gmail](https://img.shields.io/badge/wjdwoals9292-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjdwoals9292@gmail.com)
 ![KakaoTalk](https://img.shields.io/badge/wjdwoals9292-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)
-
-# ⭐ Today I Learned &nbsp; 
+# ⭐ Today I Learned Link &nbsp; 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://devjeam.notion.site/20240417-TIL-1aba09f53d134b598cc23b5920f615a6?pvs=4)<br>
-
 # ⭐ Stack  
 ### 👍Platforms & Languages
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
@@ -24,8 +22,7 @@
 
 ## 🐤My GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJaem&show_icons=true&theme=radical)
-
-## 🐤 HitS
+## 🐤 Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevJaem&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaem&show_icons=true&theme=nightowl)<br><br>
